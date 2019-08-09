@@ -17,6 +17,9 @@ font-weight:700;
 .navbar-brand img {width:250px}
 
 
-#footer {background-color:#55CCEF;color:#161821}
+#footer {background-color:#CC9ED1;color:#161821}
+#upperfooter {font-size:30px}
 
-#lowerfooter {background-color:#CC9ED1;color:#161821}
+
+#lowerfooter i {font-size:60px;color:#161821;margin:16px}
+#lowerfooter   {background-color:#CC9ED1;}
