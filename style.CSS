@@ -25,3 +25,9 @@ font-weight:700;
 #lowerfooter   {background-color:#CC9ED1;}
 
 #upperfooter i {font-size:100px;color:#161821;margin:16px}
+
+.pBox{border:#fff 1px soild; border-radius:8px;margin:8px}
+.pBox img {z-index:-1;border-radius:8px}
+.pBox button {z-index:2;position:absolute;right:50%;transform: translate(50%,50%);padding:8px;bottom:25%;
+border-radius:8px;background-color:#55CCEF;border:2px blue soild:#A41907}
+.pBox button:hover {background-color:#161821;border:2px green solid;color:#CC9ED1
